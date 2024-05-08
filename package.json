@@ -1,0 +1,14 @@
+{
+  "name": "test-opencart-cypress",
+  "version": "1.0.0",
+  "description": "Test shop with Cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Alvarez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.8.1"
+  }
+}
